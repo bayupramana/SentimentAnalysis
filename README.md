@@ -17,5 +17,6 @@ Dataset wikipedia dapat di download <a href="https://dumps.wikimedia.org/enwiki/
 # Run Program
 1. Download terlebih dahulu dataset moview review
 2. Silahkan install seluruh library yang digunakan
-3. Untuk proses word2vec akan memakan waktu yang cukup lama
-4. Hasil dari program akan menunjukan akurasi dari klasifikasi Naive Bayes
+3. Silahkan sesuaikan directory yang ada di program
+4. Untuk proses word2vec akan memakan waktu yang cukup lama
+5. Hasil dari program akan menunjukan akurasi dari klasifikasi Naive Bayes
