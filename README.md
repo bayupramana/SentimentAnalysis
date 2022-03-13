@@ -10,8 +10,9 @@ Sentimen Analisis merupakan sebuah metode yang digunakan untuk memprediksi penda
 5. NLTK
 
 # Dataset
-Dataset yang digunakan yaitu a <a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">dataset moview review yang berjumlah 50.000 data</a>
-<a href="https://dumps.wikimedia.org/enwiki/20171001/">Wikipedia Corpus</a>
+Dataset yang digunakan yaitu <a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">dataset moview review yang berjumlah 50.000 data</a>
+<br>
+Dataset wikipedia dapat di download <a href="https://dumps.wikimedia.org/enwiki/20171001/">disini</a>
 
 # Run Program
 1. Download terlebih dahulu dataset moview review
